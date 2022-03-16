@@ -22,12 +22,3 @@ Languages  :  Java, JavaScript, PhP
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="https://komarev.com/ghpvc/?username=ottersec2015&style=flat-square" width="110" height="20" ><br><br>
 </p>
-
-	
-
-
-<p align="middle">
-	
-
-
-</p>
