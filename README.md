@@ -10,9 +10,9 @@
 scammerlife@github
 ------------------
 
-       OS  :  Windows 10
+       OS  :  Windows 11
       CPU  :  Xeon e5 2650
-      GPU  :  GTX 750TI
+      GPU  :  GTX 1650TI
 Languages  :  Java, JavaScript, PhP
   
 ```
